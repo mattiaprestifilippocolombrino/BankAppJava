@@ -1,0 +1,1 @@
+A first java project to remind OOP Concepts. This project simulate a bank, with operations of create account, deposit, withdraw, transfer and view historycal transactions. In this project the storage used is only memory without DB.
